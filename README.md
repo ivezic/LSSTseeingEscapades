@@ -3,7 +3,9 @@ https://github.com/uwescience/shablona
 
 ** we need a description of LSSTseeingEscapades project here **
 
+[![Build Status](https://travis-ci.org/ivezic/LSSTseeingEscapades.svg?branch=master)](https://travis-ci.org/ivezic/LSSTseeingEscapades)
 
+***** end of LSSTseeingEscapades project *****
 
 ## shablona
 [![Build Status](https://travis-ci.org/uwescience/shablona.svg?branch=master)](https://travis-ci.org/uwescience/shablona)
