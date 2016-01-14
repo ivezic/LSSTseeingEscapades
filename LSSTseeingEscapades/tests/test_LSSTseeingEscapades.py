@@ -2,10 +2,12 @@ import os.path as op
 import numpy as np
 import pandas as pd
 import numpy.testing as npt
-import shablona as sb
+import LSSTseeingEscapades as LsE
 
 data_path = op.join(sb.__path__[0], 'data')
 
+
+## the code below is template code from Shablona (Z. Ivezic) 
 
 def test_transform_data():
     """
