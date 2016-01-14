@@ -1,3 +1,10 @@
+The text below is from "shablona" template project by Ariel Rokem, see
+https://github.com/uwescience/shablona
+
+** we need a description of LSSTseeingEscapades project here **
+
+
+
 ## shablona
 [![Build Status](https://travis-ci.org/uwescience/shablona.svg?branch=master)](https://travis-ci.org/uwescience/shablona)
 
